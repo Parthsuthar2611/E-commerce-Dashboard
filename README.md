@@ -99,3 +99,5 @@ Slicers & Filters:
 
 ➵Profit Management: Analyze discount or margin performance, understanding which methods or periods yield losses.
 
+DashBorad :
+ ![Image Alt](https://github.com/Parthsuthar2611/E-commerce-Dashboard/blob/6c1027cafe90bfe280c16f9e15040d91e6717fb0/E-commerce%20Dashboard.png)
